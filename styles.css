@@ -1,4 +1,18 @@
 .heading-brush {
     font-family: "Brush Script MT", Verdana;
     font-size: xxx-large;
+    text-align: center;
+}
+
+.ingredients-heading {
+    background-color: darkslategrey;
+    color: white;
+}
+
+#recipe-list {
+    list-style: disc inside none;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    font-size: large;
 }
